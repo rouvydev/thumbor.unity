@@ -1,0 +1,11 @@
+{
+    "name": "rouvy.thumbor.unity",
+    "version": "1.0.0",
+    "description": "The NetCoreThumbor of version 1.0.0. Every dll has its version defined in the directory name.",
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com/@rouvydev"
+    },
+    "repository": {
+        "url": "https://github.com/rouvydev/thumbor.unity"
+    }
+}
